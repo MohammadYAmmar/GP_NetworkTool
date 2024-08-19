@@ -2247,7 +2247,7 @@ namespace Project_GP6_Dashboard
         public string siteCollUrl = "https://taibahuniv.sharepoint.com/sites/GP6_Site/";
 
         public string userName = "mohammad_y_ammar@taibahu.edu.sa";
-        public string password = "2350614679";
+        public string password = "----";
 
 
         public Sharepoint_Monitoring()
@@ -2271,7 +2271,7 @@ namespace Project_GP6_Dashboard
             //   ClientContext ctx = am.GetADFSUserNameMixedAuthenticatedContext(samlSite, "administrator", "pwd", "domain", "sts.set1.bertonline.info", "urn:sharepoint:saml");
 
             //GP6: Security Token Service (STS).
-            ClientContext ctx = am.GetADFSUserNameMixedAuthenticatedContext(samlSite, "mohammad_y_ammar@taibahu.edu.sa", "2350614679", "taibahuniv.sharepoint.com", "sts.taibahuniv", "urn:sharepoint:taibahuniv");
+            ClientContext ctx = am.GetADFSUserNameMixedAuthenticatedContext(samlSite, "mohammad_y_ammar@taibahu.edu.sa", "---", "taibahuniv.sharepoint.com", "sts.taibahuniv", "urn:sharepoint:taibahuniv");
 
 
             FieldCollection fields = ctx.Web.Fields;

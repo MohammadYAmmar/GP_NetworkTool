@@ -174,25 +174,6 @@ namespace Project_GP6_Dashboard
                 //UserID = "USER@YOUR-SERVER",
                 //Password = "PASSWORD",
 
-
-                //Server = "studenttestsql.mysql.database.azure.com",
-                //Database = "studenttestsql",
-                //UserID = "studenttest@studenttestsql",
-                //Password = "ST@172839",
-
-
-
-
-                Server = "studenttestsql.mysql.database.azure.com",
-                Port = 3306,
-                //Database = "studenttestsql",
-                Database = "performance_schema",
-
-                UserID = "studenttest@studenttestsql",
-                Password = "ST@172839",
-                SslMode = MySqlSslMode.Preferred,
-
-
                 //  SslMode = MySqlSslMode.Required,
             };
 
@@ -270,24 +251,6 @@ namespace Project_GP6_Dashboard
                 //Database = "YOUR-DATABASE",
                 //UserID = "USER@YOUR-SERVER",
                 //Password = "PASSWORD",
-
-
-                //Server = "studenttestsql.mysql.database.azure.com",
-                //Database = "studenttestsql",
-                //UserID = "studenttest@studenttestsql",
-                //Password = "ST@172839",
-
-
-
-
-                Server = "studenttestsql.mysql.database.azure.com",
-                Port = 3306,
-                //Database = "studenttestsql",
-                Database = "performance_schema",
-
-                UserID = "studenttest@studenttestsql",
-                Password = "ST@172839",
-                SslMode = MySqlSslMode.Preferred,
 
 
                 //  SslMode = MySqlSslMode.Required,
@@ -368,24 +331,6 @@ namespace Project_GP6_Dashboard
                 //Password = "PASSWORD",
 
 
-                //Server = "studenttestsql.mysql.database.azure.com",
-                //Database = "studenttestsql",
-                //UserID = "studenttest@studenttestsql",
-                //Password = "ST@172839",
-
-
-
-
-                Server = "studenttestsql.mysql.database.azure.com",
-                Port = 3306,
-                Database = "studenttestsql",
-                //Database = "performance_schema",
-
-                UserID = "studenttest@studenttestsql",
-                Password = "ST@172839",
-                SslMode = MySqlSslMode.Preferred,
-
-
                 //  SslMode = MySqlSslMode.Required,
             };
 
@@ -430,11 +375,6 @@ namespace Project_GP6_Dashboard
                 //Password = "PASSWORD",
                // SslMode = MySqlSslMode.Required,
 
-                Server = "studenttestsql.mysql.database.azure.com",
-                Database = "studenttestsql",
-                UserID = "studenttest@studenttestsql",
-                Password = "ST@172839",
-                SslMode = MySqlSslMode.Required,
 
             };
 
